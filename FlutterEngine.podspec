@@ -23,7 +23,7 @@ TODO: Add long description of the pod here.
 
   s.homepage         = 'https://github.com/chenhang03/FlutterEngine'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'chenhang03' => 'chenhang03@meituan.com' }
+  s.author           = { 'hangisnice' => 'hangisnice@gmail.com' }
   s.source       = { :git => "", :tag => "#{s.version}" }
 
   s.ios.deployment_target = '8.0'
